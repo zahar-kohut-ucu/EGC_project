@@ -1,0 +1,3 @@
+[submodule "EGC"]
+	path = EGC
+	url = https://github.com/GuoQiushan/EGC.git
