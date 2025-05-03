@@ -1,2 +1,6 @@
 data/
 .venv/
+openai_log/
+cifar_samples/
+cat_samples/
+autoencoder_kl.pth
