@@ -14,7 +14,7 @@ The model was trained in the latent space of a pretrained VQ-VAE, and produces 2
 
 > 🔧 **Some parameters and file paths are hardcoded** in scripts (e.g., dataset paths, checkpoint directories).
 >
-> Make sure to adjust these for your own machine in files under `scripts/`.
+> Make sure to adjust these for your own machine.
 
 ---
 
