@@ -8,7 +8,7 @@ The model was trained in the latent space of a pretrained VQ-VAE, and produces 2
 
 ## 🚨 Warning
 
-> ⚠️ **The original EGC repository will _not_ work out of the box.**
+> ⚠️ **The original EGC submodule will _not_ work out of the box.**
 >
 > This version contains **local updates and modifications** required for training and sampling without classification. It also includes important bug fixes not present in the original repository.
 
