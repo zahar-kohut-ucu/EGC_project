@@ -1,4 +1,4 @@
-# 🧪 EGC_project — Energy-Based Generative Modeling with Diffusion
+# 🧪 EnergyFlow — Energy-Based Generative Modeling with Diffusion
 
 This repository contains a modified and extended version of the [EGC (Energy-Guided Diffusion)](https://github.com/GuoQiushan/EGC) framework. It is adapted for **unconditional image generation** on a subset of the AFHQ dataset (cat faces) using **latent-space diffusion**.
 
