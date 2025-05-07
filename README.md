@@ -17,4 +17,11 @@ The model was trained in the latent space of a pretrained VQ-VAE, and produces 2
 > Make sure to adjust these for your own machine.
 
 ---
+## Sample Outputs
 
+Below is an example of your model’s generated cat face video:
+
+<video src="vid_pres.mp4" controls width="640">
+  Your browser does not support the video tag.
+</video>
+---
